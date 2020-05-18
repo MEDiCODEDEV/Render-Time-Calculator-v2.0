@@ -11,6 +11,8 @@ https://drive.google.com/open?id=1KW_nrcP16AKmlEoPV7WGJii8VelkoO1N
 
 https://www.youtube.com/watch?v=Sslj-FVI0ok
 
+# ABOUT RTC
+
 Gumroad and Github accepts a maximum of 25mb the file size, as version 2.0 has about 45mb were divided into two parts as in the print. To extract the file, just right click on "Render Time Calculator v2.0.0 - Portable.zip" and go to "Extract here".
 
 Version 2.0 available now!
