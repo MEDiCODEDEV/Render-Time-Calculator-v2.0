@@ -3,6 +3,9 @@
 
 # ATTENTION:
 ![v2](https://user-images.githubusercontent.com/60605512/82163424-73d89b80-9881-11ea-917d-c752e6abcad5.PNG)
+
+https://www.youtube.com/watch?v=Sslj-FVI0ok
+
 Gumroad and Github accepts a maximum of 25mb the file size, as version 2.0 has about 45mb were divided into two parts as in the print. To extract the file, just right click on "Render Time Calculator v2.0.0 - Portable.zip" and go to "Extract here".
 
 Version 2.0 available now!
